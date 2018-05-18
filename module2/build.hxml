@@ -1,0 +1,4 @@
+-cp .
+-main B
+-java-lib ../module1/out/A.jar
+-java out
